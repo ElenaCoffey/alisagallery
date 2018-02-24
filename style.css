@@ -1,0 +1,25 @@
+/* Styles go here */
+
+:root {
+    --green-bg-color: url(https://user-images.githubusercontent.com/34121390/36613671-11a06e08-188f-11e8-9c05-a63bcbbbff4c.png)no-repeat top right ; 
+}
+   
+
+html {
+    background:var(--green-bg-color) ; 
+    background-size: cover;
+     
+}
+p { font-size: 15px;
+  color: white;
+}
+
+img { border: 15px solid white;
+      margin: 20px;
+      
+}
+p {font-family: "Times New Roman", Times, cursive ;
+  font-style: italic;
+  font-size: 45px;
+  text-align: center;
+}
