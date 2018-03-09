@@ -1,2 +1,2 @@
 # alisagallery.html
-Hand made pictures gallery
+I built this site for my mom for her hand made pictures. 
